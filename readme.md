@@ -24,6 +24,7 @@
 - Clean and focused
 - Actively maintained
 - [Used by ~50,000 packages](https://www.npmjs.com/browse/depended/chalk) as of January 1, 2020
+- [More than 100m downloads monthly](https://npm-stat.com/charts.html?package=chalk&from=2019-01-15&to=2010-12-31) as of January 1, 2020
 
 ## Install
 
